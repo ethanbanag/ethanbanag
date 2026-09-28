@@ -1,6 +1,6 @@
 ## Hey there! 
 
-My name is Ethan and I'm a 3rd-year student at UCSD studying Computer Science!
+My name is Ethan and I'm a 3rd-year student at UCSD studying Computer Science! \
 Aspiring Fullstack developer from San Diego, CA.   
 
 #### Some of My Skills:
